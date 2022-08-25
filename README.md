@@ -1,7 +1,7 @@
 简体中文 | [English](./README_EN.md)
 
 <p>
-<strong><h2>無名の主页</h2></strong>
+<strong><h2>Zyxの主页</h2></strong>
 简单的小主页，原来的看够了，重新弄了一个
 </p>
 
@@ -13,8 +13,7 @@
 
 >由于 CDN 缓存原因，查看最新效果可能需要 `Ctrl` + `F5` 强制刷新浏览器缓存
 
-- [無名の主页](https://www.imsyy.top)
-- [無名の主页 - 备用线路](https://home-imsyy.vercel.app/)
+- [Zyxの主页](https://www.zyxblog.net)
 
 ### 功能
 
