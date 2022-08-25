@@ -1,23 +1,23 @@
 {
-    "title": "無名の主页",
+    "title": "Zyxの主页",
     "description": "一个默默无闻的主页",
-    "keywords": "無名,个人主页",
-    "author": "無名",
+    "keywords": "Zyx,个人主页",
+    "author": "Zyx",
     "logo_img": "./img/icon/logo.png",
     "logo_text_1": "imsyy",
     "logo_text_2": "top",
-    "github": "imsyy",
-    "qq": "1539250352",
-    "email": "one@imsyy.top",
-    "bilibili": "98544142",
+    "github": "Zyx",
+    "qq": "2078170660",
+    "email": "2078170660@qq.com",
+    "bilibili": "11973949",
     "telegram": "bottom_user",
     "link_1": [
-        "https://blog.imsyy.top/",
+        "https://blog.mczyx.online",
         "fa-solid fa-blog",
         "博客"
     ],
     "link_2": [
-        "https://drive.imsyy.top/",
+        "https://pan.mczyx.online",
         "fa-solid fa-cloud",
         "网盘"
     ],
@@ -27,20 +27,20 @@
         "音乐"
     ],
     "link_4": [
-        "https://nav.imsyy.top/",
+        "/",
         "fa-solid fa-compass",
         "起始页"
     ],
     "link_5": [
-        "https://web.imsyy.top/",
+        "https://dc.mczyx.online/",
         "fa-solid fa-book-bookmark",
-        "网址集"
+        "音乐解锁"
     ],
     "link_6": [
-        "https://lab.imsyy.top/",
+        "https://pay.mczyx.online/",
         "fa-solid fa-flask",
-        "实验室"
+        "码支付"
     ],
-    "Copyright_text": "無名",
-    "beian": "豫ICP备2022018134号-1"
+    "Copyright_text": "Zyx",
+    "beian": "粤ICP备2022047371号-1"
 }
